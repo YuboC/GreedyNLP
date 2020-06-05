@@ -1,6 +1,4 @@
-### 贪心学院 自然语言处理训练营 第一期
-- 感谢B站网页提供视频资源，这里把上课学到的内容做一些简单的整理
-- **由于Github的md文件无法显示LaTex公式，建议下载到本地进行浏览**
+
 ---
 ### 作业
 - [Assignment1](https://github.com/QuantumDriver/NLP_GreedyAI/blob/master/Assignment1.ipynb): 编辑距离，分词，过滤(stop-words,stemming)，TF-IDF
